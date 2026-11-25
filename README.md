@@ -2,7 +2,9 @@
 
 Atividade avaliativa de **Computação Distribuída** (Universidade Presbiteriana Mackenzie).
 
+**Aluno:** Enrique Cipolla Martins — **RA:** 10427834
 **Aluno:** Henrique Ferreira Marciano — **RA:** 10439797
+**Aluno:** Pedro Gabriel Guimarães — **RA:** 10437465
 
 ## Descrição
 
